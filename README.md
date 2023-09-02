@@ -82,7 +82,7 @@ $ source .venv/bin/activate  # unix
 - Install the dependencies:
 
 ```bash
-$ pip install -r requeriments.txt
+$ pip install -r requirements.txt
 ```
 
 - In your terminal, enter an interactive python interpreter (basically, typing python with the environment activated). Type the following commands:
