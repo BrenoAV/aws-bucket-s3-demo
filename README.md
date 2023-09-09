@@ -107,7 +107,7 @@ At the end of the script will download the file from AWS bucket created before a
 
 ---
 <div align="center">
-  <strong>"People’s dreams... Have no ends" - OP</strong>
+  <strong>"PEOPLE'S DREAMS WILL NEVER END" - OP</strong>
 </div>
 <p align="center">
   <sub>Created by BrenoAV</sub>
